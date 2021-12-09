@@ -25,7 +25,7 @@
 
 ### CICD Workflow 
 
-![Alt text](https://github.com/a-miah/cloudcomputingAWS/blob/main/Images/CICD-workflow.JPG "CICD Workflow")
+![Alt text](https://github.com/a-miah/eng99_CICD/blob/main/Images/CICD-workflow.JPG "CICD Workflow")
 
 ## CI/CD Pipeline
 - The CI/CD pipeline is all about automation: Initiating code builds, automated testing, and automated deploying to the staging or production environments.
@@ -35,7 +35,7 @@
 # Jenkins
 - Jenkins is an open-source automation server in which the central build and CI process take place, It is a Java-based program with packages for Windows, macOS, & Linux.
 
-![Alt text](https://github.com/a-miah/cloudcomputingAWS/blob/main/Images/jenkins-pipeline.JPG "Jenkins Pipeline")
+![Alt text](https://github.com/a-miah/eng99_CICD/blob/main/Images/jenkins-pipeline.JPG "Jenkins Pipeline")
 
 Many benefits:
 - Great range of plugins available
@@ -60,4 +60,4 @@ Many benefits:
 10.	Enter name of other project to run 
 
 
-![Alt text](https://github.com/a-miah/cloudcomputingAWS/blob/main/Images/jenkins-diagram.JPG "Jenkins Diagram")
+![Alt text](https://github.com/a-miah/eng99_CICD/blob/main/Images/jenkins_diagram.JPG "Jenkins Diagram")
