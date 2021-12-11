@@ -1,13 +1,16 @@
 # CI/CD 
 
 - CI CD is considered as the backbone of DevOps practices and automation.
-- Faster software builds, customer satisfaction by deploying the app in time
+- Faster software builds, customer satisfaction by deploying the app in time.
+- Small code changes make fault isolation simpler and quicker.
 
 ## Docker
 
 - Virtualization platform to containerise your app.
 - Continuous Integration Efficiency with Docker enables you to build a container image and use that same image across every step of the deployment process. 
 - A huge benefit of this is the ability to separate non-dependent steps and run them in parallel.
+- Makes it easier to create, deploy and run applications by using containers.
+- Containers allow developers to package up an application with everything it needs, such as libraries and dependencies, and ship it out as as one package.
 
 
 ## CI - Continuous Integration
@@ -52,7 +55,7 @@ Many benefits:
 2.	Name it – eng99_attaik
 3.	Freestyle project
 4.	Description 
-5.	Tick discard old builds
+5.	Tick discard old builds - (max 3)
 6.	Build > execute shell > save > apply
 7.	Under name > build now > runs tests
 8.	From build history > console output
